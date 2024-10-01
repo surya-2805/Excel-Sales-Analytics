@@ -5,7 +5,7 @@
 
     **1.** Create a [customer performance report](https://github.com/surya-2805/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)
 
-    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/surya-2805/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target.pdf)
+    **2.** Conduct a comprehensive comparison between [market performance and sales targets](https://github.com/surya-2805/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target.pdf)
   
     **3.** Analyse the top 10 products [Top 10 products](https://github.com/surya-2805/Excel-Sales-Analytics/blob/main/Top%2010%20products.pdf)
 
